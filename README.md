@@ -1,2 +1,2 @@
 # ml-project2
-It is basically music recommender system
+It is basically mood based music recommender system
