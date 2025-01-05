@@ -1,4 +1,4 @@
-# ml-project2
+# music recommender
 It is basically mood based music recommender system
 for run this you need to run the streamlit app on your system
 steps required:
